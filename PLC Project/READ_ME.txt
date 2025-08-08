@@ -1,3 +1,3 @@
 READ_ME
 
-To run this project you will need both the PyQt5 and Qscintilla packages installed. They can be installed using the pip install method.
+This is a basic python IDE I created utilizing PyQt5 and Qscintilla, both of which will need to be installed (utilizing pip install method) to run.
